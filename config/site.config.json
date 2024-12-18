@@ -1,0 +1,47 @@
+{
+  "metaData": {
+    "title" : "Junaied Blogs",
+    "description" : "A modern and feature-rich blog template built with React, NextJS, and Tailwind CSS.",
+    "author" : "",
+    "keyword" : "minimal",
+    "ogImage" : "/images/ogimage.jpg"
+  },
+  "baseURL" : "",
+  "siteURL" : "",
+  "logo" : "/images/logo.svg",
+  "logoWhite" : "/images/logo-white.svg",
+  "logoText" : "Eyolo",
+  "favicon" : "/images/favicon.png",
+
+  "subscriptionFormspreeID" : "xnqeeyyp",
+
+  "footerWidgets": {
+    "email" : "junaied526@gmail.com",
+    "phone" : "01781247234"
+  },
+
+  "footerLinks": [
+    {
+      "title": "About",
+      "url": "/about"
+    },
+    {
+      "title": "Archive",
+      "url": "/archive"
+    },
+    {
+      "title": "Contact",
+      "url": "/contact"
+    },
+    {
+      "title": "Privacy Policy",
+      "url": "/privacy"
+    },
+    {
+      "title": "Terms",
+      "url": "/terms"
+    }
+  ],
+
+  "copyright" : "© 2024 Junaied, Inc. All rights reserved."
+}
